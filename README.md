@@ -6,3 +6,5 @@ RSocket is a new messaging protocol that’s designed to solve some common micro
 
 ## Reactive Vs Servlet MVC
 ![](https://res.infoq.com/news/2017/12/servlet-reactive-stack/en/resources/1Screen%20Shot%202017-11-30%20at%2011.06.16%20AM-1512084131925.png)
+
+![](https://static.packt-cdn.com/products/9781788995979/graphics/d2af6e5b-5d26-448d-b54c-64b42d307736.png)
